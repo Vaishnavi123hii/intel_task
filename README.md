@@ -4,7 +4,7 @@
 
 After reading the problem statement I wasn't sure where to start. It took me about five hours to think of opening the starter kit, which had three files: a data downloader, a low-accuracy baseline model, and a verification script. I started by improving that baseline's accuracy.
 
-That led me down a rabbit hole of 3Blue1Brown and Green Code lectures, trying to understand what I was actually building. I picked up scikit-learn, TensorFlow and PyTorch for the first time during this task. 
+That led me down a rabbit hole of 3Blue1Brown and Green Code lectures, trying to understand what I was actually building. I finally picked up scikit-learn, TensorFlow and PyTorch for the first time during this task. 
 
 The code is AI-written, but I understand it and the architecture behind it.
 
